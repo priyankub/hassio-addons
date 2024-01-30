@@ -4,4 +4,4 @@ addons:
   matter-test:
     repository: priyankub/python-matter-server
     target: matter-server-test
-    image: ghcr.io/priyankub/python-matter-server:1.0.6
+    image: ghcr.io/priyankub/python-matter-server:1.0.7

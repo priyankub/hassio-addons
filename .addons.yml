@@ -1,7 +1,7 @@
 ---
 channel: stable
 addons:
-  loki:
+  matter:
     repository: priyankub/python-matter-server
-    target: core-matter-server
-    image: ghcr.io/priyankub/python-matter-server:stable
+    target: matter-server-test
+    image: ghcr.io/priyankub/python-matter-server:1.0.4

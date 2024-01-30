@@ -7,7 +7,6 @@ url: >-
   https://github.com/priyankub/hassio-addons/tree/main/matter_server
 arch:
   - aarch64
-  - amd64
 discovery:
   - matter
 hassio_api: true
@@ -16,7 +15,6 @@ homeassistant: 2023.12.0
 host_ipc: false
 host_network: true
 host_dbus: true
-image: priyankub/python-matter-server:stable
 init: false
 options:
   log_level: info

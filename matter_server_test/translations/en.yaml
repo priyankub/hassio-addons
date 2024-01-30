@@ -9,4 +9,4 @@ configuration:
       Installs the latest beta of the Python Matter Server. It is recommended
       to create a backup before starting the add-on with this flag enabled!
 network:
-  5580/tcp: Matter Server WebSocket server port.
+  5581/tcp: Matter Server WebSocket server port.

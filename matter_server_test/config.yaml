@@ -1,5 +1,5 @@
 ---
-version: 1.0.5
+version: 1.0.6
 slug: matter_server_test
 name: Matter Server Test
 description: Matter WebSocket Server for Home Assistant Matter support.
@@ -23,6 +23,6 @@ schema:
   log_level: list(debug|info|warning|error|critical)
   beta: bool?
 ports:
-  5580/tcp: null
+  5581/tcp: null
 stage: stable
 startup: services

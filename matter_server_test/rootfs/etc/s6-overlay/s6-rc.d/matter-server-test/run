@@ -20,9 +20,9 @@ if bashio::config.true "beta"; then
 fi
 
 # Bind to internal hassio network only unless user requests to expose
-server_port="$(bashio::addon.port 5580)"
+server_port="$(bashio::addon.port 5581)"
 if ! bashio::var.has_value "${server_port}"; then
-    server_port=5580
+    server_port=5581
 fi
 
 # Reenable once Matter Server can bind to a specific IP

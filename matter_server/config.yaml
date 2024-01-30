@@ -13,7 +13,6 @@ hassio_api: true
 homeassistant: 2023.12.0
 # IPC is only used within the Add-on
 host_ipc: false
-image: ghcr.io/priyankub/python-matter-server:1.0.4
 host_network: true
 host_dbus: true
 init: false

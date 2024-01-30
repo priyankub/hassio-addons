@@ -36,12 +36,3 @@ You have several options to get them answered:
 - Join the [Reddit subreddit][reddit] in [/r/homeassistant][reddit]
 
 In case you've found a bug, please [open an issue on our GitHub][issue].
-
-[addon]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=core_matter_server
-[addon-badge]: https://my.home-assistant.io/badges/supervisor_addon.svg
-[discord]: https://discord.gg/c5DvZ4e
-[forum]: https://community.home-assistant.io
-[reddit]: https://reddit.com/r/homeassistant
-[issue]: https://github.com/home-assistant/addons/issues
-[matter_server_repo]: https://github.com/home-assistant-libs/python-matter-server
-[matter_integration]: https://www.home-assistant.io/integrations/matter/

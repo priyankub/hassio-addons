@@ -1,7 +1,7 @@
 ---
 channel: stable
 addons:
-  matter:
+  matter-test:
     repository: priyankub/python-matter-server
     target: matter-server-test
-    image: ghcr.io/priyankub/python-matter-server:1.0.4
+    image: ghcr.io/priyankub/python-matter-server:1.0.5

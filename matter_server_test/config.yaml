@@ -1,10 +1,10 @@
 ---
-version: 1.0.4
+version: 1.0.5
 slug: matter_server_test
 name: Matter Server Test
 description: Matter WebSocket Server for Home Assistant Matter support.
 url: >-
-  https://github.com/priyankub/hassio-addons/tree/main/matter_server
+  https://github.com/priyankub/hassio-addons/tree/main/matter_server_test
 arch:
   - aarch64
 discovery:

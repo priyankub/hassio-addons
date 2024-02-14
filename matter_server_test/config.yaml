@@ -1,5 +1,5 @@
 ---
-version: 1.0.14
+version: 1.0.15
 slug: matter_server_test
 name: Matter Server Test
 description: Matter WebSocket Server for Home Assistant Matter support.

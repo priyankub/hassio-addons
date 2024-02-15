@@ -1,7 +1,7 @@
 ---
 build_from:
-  aarch64: ghcr.io/priyankub/python-matter-server:1.0.15
-  amd64: ghcr.io/priyankub/python-matter-server:1.0.15
+  aarch64: ghcr.io/priyankub/python-matter-server:1.0.16
+  amd64: ghcr.io/priyankub/python-matter-server:1.0.16
 args:
   BASHIO_VERSION: 0.14.3
   TEMPIO_VERSION: 2021.09.0
